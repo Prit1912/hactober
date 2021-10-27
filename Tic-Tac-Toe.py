@@ -1,6 +1,6 @@
-#Implementation of Two Player Tic-Tac-Toe game in Python.
+#Implementation of Two Player Tic-Tac-Toe game in Python (AI Practical).
 
-''' We will make the board using dictionary 
+''' First of all We will make the board using dictionary 
     in which keys will be the location(i.e : top-left,mid-right,etc.)
     and initialliy it's values will be empty space and then after every move 
     we will change the value according to player's choice of move. '''
